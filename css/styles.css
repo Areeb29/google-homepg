@@ -1,0 +1,61 @@
+body{text-align: center;
+}
+
+h1{display: inline;
+    font-weight: 500;
+    font-size: 8em;
+    position: relative;;
+    right: 20px;
+}
+
+.a{color:#4d80e4;}
+.al{color:red;}
+.ali{color:yellow;}
+.aliz{color:#4d80e4;}
+.aliza{color:green;}
+.alizas{color:red;}
+
+.tree{position: relative;
+top: 13em;
+}
+
+.wee{
+width: 500px;
+font-size: x-large;
+border-radius: 20px;
+padding-left: 47px;}
+.icon{position: relative;
+right: 480px;
+size: 20px;}
+.mic{position: relative;
+right: 55px;
+color:#4a47a3;
+width: 30px;}
+
+.so{padding-right: 20px;
+    margin-right: 70px;
+    margin-top: 10px;
+border-radius: 6px;
+background-color:lightcyan;
+font-size: large;
+padding-left: 10px;}
+
+.soo{padding-right: 20px;
+    margin-right: 60px;
+    margin-top: 10px;
+border-radius: 6px;
+background-color:lightcyan;
+font-size: large;
+padding-left: 10px;}
+
+.f{position: relative;
+left: 440px;
+bottom: 480px;}
+
+.u{position: relative;
+    left: 550px;
+    bottom: 528px;}
+
+    .c{position: relative;
+        left: 650px;
+        bottom: 563px;}
